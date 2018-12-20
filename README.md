@@ -10,6 +10,9 @@ The objectives of building the structure were to:
 3. Select components from a frontend library
 4. Understand how to use CSS classes and rule sets to style a page
 
-Please see screenshot below of the current state of the portfolio:
+Please see screenshots below of the current state of the portfolio:
 
 ![My Portfolio](bloc_portfolio1.png)
+
+![My Portfolio 2](bloc_portfolio2.png)
+
