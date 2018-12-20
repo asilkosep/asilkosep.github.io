@@ -12,7 +12,6 @@ The objectives of building the structure were to:
 
 Please see screenshots below of the current state of the portfolio:
 
-![My Portfolio](bloc_portfolio1.png)
 
 ![My Portfolio 2](bloc_portfolio2.png)
 
