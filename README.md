@@ -12,4 +12,4 @@ The objectives of building the structure were to:
 
 Please see screenshot below of the current state of the portfolio:
 
-![My Portfolio](https://octodex.github.com/images/yaktocat.png)
+![My Portfolio](bloc_portfolio1.png)
